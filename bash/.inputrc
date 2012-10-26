@@ -1,0 +1,3 @@
+# MBA has no home key, and terminal ate home key anyway,
+# bash default C-a beginning of line is occupied by screen and remapped tmux
+Control-f: beginning-of-line
